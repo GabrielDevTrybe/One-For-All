@@ -97,7 +97,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
      ('Vento de Maio', 3, '2001'),
      ('QVVJFA?', 4, '2003'),
      ('Somewhere Far Beyond', 5, '2007'),
-     ('Feeling Good', '6', '2012');
+     ('I Put A Spell On You', '6', '2012');
 
 
 INSERT INTO SpotifyClone.cancoes (cancao,duracao,album_id)
